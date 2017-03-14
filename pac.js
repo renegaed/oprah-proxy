@@ -1,3 +1,3 @@
 function FindProxyForURL(url, host) {
-	return 'HTTPS sg.opera-proxy.net:443';
+	return 'HTTPS de.opera-proxy.net:443';
 }
